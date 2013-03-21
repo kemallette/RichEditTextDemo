@@ -11,5 +11,7 @@ public abstract class ListItem {
 	public String getListTitle() {
 	  return listString;
 	}
+
+
 	public abstract void goToDemo(Context ctx);
 }

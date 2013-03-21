@@ -93,11 +93,13 @@ containing a value of this type.
         public static final int activity_vertical_margin=0x7f090001;
     }
     public static final class drawable {
-        public static final int ic_launcher=0x7f020000;
+        public static final int ic_clear=0x7f020000;
+        public static final int ic_launcher=0x7f020001;
     }
     public static final class id {
         public static final int alpha=0x7f060002;
         public static final int alphaNumeric=0x7f060003;
+        public static final int clear=0x7f060010;
         public static final int creditCard=0x7f060005;
         public static final int custom=0x7f06000b;
         public static final int domainName=0x7f060007;
@@ -108,7 +110,7 @@ containing a value of this type.
         public static final int nocheck=0x7f06000a;
         public static final int numeric=0x7f060001;
         public static final int phone=0x7f060006;
-        public static final int prefs=0x7f060010;
+        public static final int prefs=0x7f060011;
         public static final int regexp=0x7f060000;
         public static final int tv_explanation=0x7f06000f;
         public static final int tv_title=0x7f06000d;
@@ -130,6 +132,7 @@ containing a value of this type.
         public static final int example_regexp=0x7f03000c;
         public static final int example_weburl=0x7f03000d;
         public static final int layout_examplegeneric=0x7f03000e;
+        public static final int rich_edit_text=0x7f03000f;
     }
     public static final class menu {
         public static final int menu=0x7f0a0000;

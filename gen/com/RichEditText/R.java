@@ -8,6 +8,7 @@ package com.RichEditText;
 
 public final class R {
 	public static final class id {
+		public static final int clear = 0x7f060010;
 		public static final int creditCard = 0x7f060005;
 		public static final int webUrl = 0x7f060009;
 		public static final int phone = 0x7f060006;
@@ -17,6 +18,7 @@ public final class R {
 		public static final int alpha = 0x7f060002;
 		public static final int domainName = 0x7f060007;
 		public static final int nocheck = 0x7f06000a;
+		public static final int et = 0x7f06000c;
 		public static final int regexp = 0x7f060000;
 		public static final int ipAddress = 0x7f060008;
 		public static final int custom = 0x7f06000b;
@@ -37,6 +39,9 @@ public final class R {
 		public static final int error_ip_not_valid = 0x7f070008;
 		public static final int error_email_address_not_valid = 0x7f070004;
 	}
+	public static final class layout {
+		public static final int rich_edit_text = 0x7f03000f;
+	}
 	public static final class styleable {
 		public static final int RichEditText_emptyErrorString = 2;
 		public static final int RichEditText_customRegexp = 3;
@@ -48,7 +53,8 @@ public final class R {
 		public static final int RichEditText_fontName = 6;
 	}
 	public static final class drawable {
-		public static final int ic_launcher = 0x7f020000;
+		public static final int ic_launcher = 0x7f020001;
+		public static final int ic_clear = 0x7f020000;
 	}
 	public static final class attr {
 		public static final int testType = 0x7f010000;

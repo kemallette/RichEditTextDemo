@@ -8,9 +8,11 @@ int attr testErrorString 0x7f010001
 int attr testType 0x7f010000
 int dimen activity_horizontal_margin 0x7f090000
 int dimen activity_vertical_margin 0x7f090001
-int drawable ic_launcher 0x7f020000
+int drawable ic_clear 0x7f020000
+int drawable ic_launcher 0x7f020001
 int id alpha 0x7f060002
 int id alphaNumeric 0x7f060003
+int id clear 0x7f060010
 int id creditCard 0x7f060005
 int id custom 0x7f06000b
 int id domainName 0x7f060007
@@ -21,7 +23,7 @@ int id ipAddress 0x7f060008
 int id nocheck 0x7f06000a
 int id numeric 0x7f060001
 int id phone 0x7f060006
-int id prefs 0x7f060010
+int id prefs 0x7f060011
 int id regexp 0x7f060000
 int id tv_explanation 0x7f06000f
 int id tv_title 0x7f06000d
@@ -41,6 +43,7 @@ int layout example_phone_custommessages 0x7f03000b
 int layout example_regexp 0x7f03000c
 int layout example_weburl 0x7f03000d
 int layout layout_examplegeneric 0x7f03000e
+int layout rich_edit_text 0x7f03000f
 int menu menu 0x7f0a0000
 int string action_settings 0x7f07000b
 int string address_hint 0x7f07002f
